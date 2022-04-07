@@ -277,6 +277,8 @@ select {
 .send_email {
   background-color: #4caf50;
   color: white;
+  font-weight: bold;
+  text-transform: uppercase;
   padding: 14px 20px;
   margin: 8px 0;
   border: none;
